@@ -21,7 +21,7 @@ Fifth, Make the script exacutable
 
 `chmod +x beepy.sh`
 
-Sixth, run `./beeyy.sh` Rock out with your beep out!!!!
+Sixth, run `./beeby.sh` Rock out with your beep out!!!!
 
 <pre>
                                /  \      __
@@ -66,5 +66,4 @@ Sixth, run `./beeyy.sh` Rock out with your beep out!!!!
                       \ \___ _______ __)>
                    _____\ \'~``______)>
                  <(_______.._______)>
-                
-<pre>
+                 <pre>
