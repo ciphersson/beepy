@@ -1,2 +1,66 @@
-# beepy
-All in one bash script to play beep music. Basic menu with beep music included. no more copy pasta.  Get ya beep on! 
+### beepy
+
+##All in one bash script to play beep music. Basic menu with beep music included. no more copy pasta.  Get ya beep on! 
+
+First, download file beepy.sh to (were ever)desktop, 
+
+Second, Install Beep, 
+
+`sudo apt-get install beep` 
+
+Third, Enable the motherboard speaker to work,
+
+`sudo modprobe pcspkr` 
+
+Forth, cd to your (were ever) Desktop, 
+
+`cd Desktop` 
+
+Fifth, Make the script exacutable 
+
+`chmod +x beepy.sh`
+
+Sixth, run `./beeyy.sh` Rock out with your beep out!!!!
+
+                               /  \      __
+   .---.                  _   /   /   _.~  \
+   \    `.               / \ /   /.-~    __/
+    `\    \              |  |   |/    .-~ __
+      \    \             |  |   |   .'--~~  \
+       \    \            |  |   `  ' _______/
+        \    \           |  `        /
+    .--. \    \          |    `     /
+    \   `.\    \          \        /
+     `\   \     \          `\     (
+       \   \     \           > ,-.-.
+        \   `.    \         /  |  \ \                ______ > BEEP, BEEP!
+         \    .    \       /___| O |O\     ,      ___ 
+      .-. \    ;    |    /`    `^-.\.-'`--'/  ____
+      \  `;         |   |                 /
+       `\  \        |   `.     `--..____,'
+         \  `.      |     `._     _.-'^
+          \   .     /         `|`|`
+        .-.\       /           | |
+        \  `\     /            | |
+         `\  `   |             | |
+           \     |             | |
+          .-.    |             | |
+          \  `.   \            | |
+           `\      \           | |
+             \      \          | |
+              \_____ :-'~~~~~'-' ;
+              /____;``-.         :
+             <____(     `.       ;
+               \___\     ;     .'
+                  /``--'~___.-'
+                 /\___/^/__/
+                /   /' /`/'
+                \  \   `\ \
+                 `\ \    \ \
+                   \ \    \ \
+                    \ \    \ \
+                     \ \    \ \     ______
+                      \ \ ___\ \'~``______)>
+                 jgs   \ \___ _______ __)>
+                   _____\ \'~``______)>
+                 <(_______.._______)>
