@@ -24,8 +24,7 @@ Fifth, Make the script exacutable
 Sixth, run `./beeby.sh` Rock out with your beep out!!!!
 
 <pre>
-
-
+BEEEEEEP BEEP!
                                 __
                                /  \      __
    .---.                  _   /   /   _.~  \
@@ -40,7 +39,7 @@ Sixth, run `./beeby.sh` Rock out with your beep out!!!!
        \   \     \           > ,-.-.
         \   `.    \         /  |  \ \
          \    .    \       /___| O |O\     ,
-      .-. \    ;    |    /`    `^-.\.-'`--'/    ___________________________>BEEP BEEP
+      .-. \    ;    |    /`    `^-.\.-'`--'/
       \  `;         |   |                 /
        `\  \        |   `.     `--..____,'
          \  `.      |     `._     _.-'^
@@ -66,7 +65,9 @@ Sixth, run `./beeby.sh` Rock out with your beep out!!!!
                     \ \    \ \
                      \ \    \ \     ______
                       \ \ ___\ \'~``______)>
-                       \ \___ _______ __)>
+                 jgs   \ \___ _______ __)>
                    _____\ \'~``______)>
                  <(_______.._______)>
-                 <pre>
+                
+                
+<pre>
