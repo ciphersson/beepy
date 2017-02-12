@@ -1,6 +1,6 @@
-### beepy
+  #BEEPY
 
-##All in one bash script to play beep music. Basic menu with beep music included. no more copy pasta.  Get ya beep on! 
+##All in one bash script to play beep music. Basic menu with beep music included. No more copy pasta.  Get ya beep on! 
 
 First, download file beepy.sh to (were ever)desktop, 
 
@@ -12,7 +12,7 @@ Third, Enable the motherboard speaker to work,
 
 `sudo modprobe pcspkr` 
 
-Forth, cd to your (were ever) Desktop, 
+Fourth, cd to your (were ever) Desktop, 
 
 `cd Desktop` 
 
@@ -65,4 +65,5 @@ Sixth, run `./beeyy.sh` Rock out with your beep out!!!!
                       \ \___ _______ __)>
                    _____\ \'~``______)>
                  <(_______.._______)>
+                
 <pre>
