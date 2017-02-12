@@ -22,6 +22,7 @@ Fifth, Make the script exacutable
 
 Sixth, run `./beeyy.sh` Rock out with your beep out!!!!
 
+<pre>
                                /  \      __
    .---.                  _   /   /   _.~  \
    \    `.               / \ /   /.-~    __/
@@ -61,6 +62,7 @@ Sixth, run `./beeyy.sh` Rock out with your beep out!!!!
                     \ \    \ \
                      \ \    \ \     ______
                       \ \ ___\ \'~``______)>
-                 jgs   \ \___ _______ __)>
+                      \ \___ _______ __)>
                    _____\ \'~``______)>
                  <(_______.._______)>
+<pre>
